@@ -20,5 +20,5 @@ var
 implementation
 
 {$R *.dfm}
-
+// поехали тестить ГИТ
 end.

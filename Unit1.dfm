@@ -1,7 +1,7 @@
-object Form1: TForm1
+object frmMain: TfrmMain
   Left = 0
   Top = 0
-  Caption = 'Form1'
+  Caption = 'New form for test'
   ClientHeight = 300
   ClientWidth = 635
   Color = clBtnFace
